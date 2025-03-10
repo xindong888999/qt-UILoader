@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+img.png
+pyproject.toml
+src/UILoader.py
+src/__init__.py
+src/u_logic.py
+src/qt_UILoader.egg-info/PKG-INFO
+src/qt_UILoader.egg-info/SOURCES.txt
+src/qt_UILoader.egg-info/dependency_links.txt
+src/qt_UILoader.egg-info/top_level.txt
