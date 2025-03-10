@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qt-UILoader"  # 替换为您的包的名称
+version = "0.0.1"  # 替换为您的包的版本
+authors = [
+    { name = "xindong888", email = "xindong888@163.com" }, #替换成你的信息
+]
+description = "只要一个ui文件，自动加载对应的逻辑类." #替换成你的包的描述
+readme = "README.md"
+requires-python = ">=3.9"  # 根据您的项目要求更改
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",  # 选择合适的许可证
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/xindong888999/qt-UILoader.git" #替换成你的github仓库地址
+"Bug Tracker" = "https://github.com/xindong888999/qt-UILoader/issues" #替换成你的github仓库地址
