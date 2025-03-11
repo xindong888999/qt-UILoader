@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "qt-UILoader"  # 替换为您的包的名称
-version = "0.0.1"  # 替换为您的包的版本
+version = "1.0.2"  # 替换为您的包的版本
 authors = [
     { name = "xindong888", email = "xindong888@163.com" }, #替换成你的信息
 ]

@@ -6,7 +6,7 @@
 > 
 > 要用到什么组件只需要在逻辑类里声明变量。记得变量名必须要和ui里的objectName里的一样
 
-![img.png](img.png)
+![https://github.com/xindong888999/qt-UILoader/blob/main/img.png](img.png)
 ### 案例：
 
 **注意1：**
@@ -18,7 +18,8 @@
 **注意3：**
   >库用的是PyQt6
 > 
- 
+ **更新日志2025年3月11日**
+ >改进了事件的自动连接和显示连接。自动连接的命名规则是on_pushButton_clicked。由三部分构成on、_pushButton、_clicked。分别是：on开头，_pushButton组件的objectName，_clicked事件名称
 ### 1.mainWindow.ui 这是界面文件   
 
    ```xml
